@@ -14,5 +14,5 @@ Now after running everything in the debugger console, I have a new set of scenar
 You will want to put the scenario_definitions.csv file into a new project folder labeled test_lanka\input before running the test_lanka.py. If you do not, then it will populate the standard test run with observations and shapefiles of Rawanda instead of the new country that you are interested in (Sri Lanka). 
 
 ### Plot these seven LULC maps and scenarios.
-![LULC 2017 with Baseline (SSP2)] ()
+![LULC 2017 with Baseline (SSP2)] (https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/blob/main/lulc_esa_seals7_luh2-message_2017.png)
 
