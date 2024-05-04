@@ -16,3 +16,4 @@ You will want to put the scenario_definitions.csv file into a new project folder
 ### Plot these seven LULC maps and scenarios.
 ![LULC 2017 with Baseline (SSP2)] (lulc_esa_seals7_luh2-message_2017.png)
 
+![LULC 2030 with ssp1] (lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2030.png)
