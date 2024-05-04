@@ -11,9 +11,41 @@ The next step is to run the defined SSP scenarios. To run the new SSP scenarios,
 
 Now after running everything in the debugger console, I have a new set of scenario definitions that I can use in the test_lanka.py. You can examine this file as scenario_defininitions1a.csv. To examine the results, you can now look in the seals folder under projects and you should find the LULC maps (and other output) in a folder called lanka_standard alongside the initial folder for the initial test run called test_standard. The script is run in earth_economy_devstack and a previously defined Python kernel.
 
-You will want to put the scenario_definitions.csv file into a new project folder labeled test_lanka\input before running the test_lanka.py. If you do not, then it will populate the standard test run with observations and shapefiles of Rawanda instead of the new country that you are interested in (Sri Lanka). 
+You will want to put the scenario_definitions.csv file into a new project folder labeled test_lanka\input before running the test_lanka.py. If you do not, then it will populate the standard test run with observations and shapefiles of Rwanda instead of the new country that you are interested in (Sri Lanka). 
 
 ### Plot these seven LULC maps and scenarios.
-![LULC 2017 with Baseline (SSP2)] (lulc_esa_seals7_luh2-message_2017.png)
+#### LULC 2017 with Baseline (SSP2)
 
-![LULC 2030 with ssp1] (lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2030.png)
+![lulc_esa_seals7_luh2-message_2017](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/9f1fa809-5a25-45b9-a2b6-e3e05587ca84)
+
+
+#### LULC 2030 with SSP1 and RCP26
+
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/031297b5-fa79-4ce1-875c-733584043633)
+
+#### LULC 2035 with SSP1 and RCP26
+
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/4c8bd915-061d-497d-be94-87e2d6c8dbec)
+
+
+
+#### LULC 2040 with SSP1 and RCP26
+
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/f8501722-ec44-4adf-b6c2-2dd011e17276)
+
+
+
+#### LULC 2030 with SSP5 and RCP85
+
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/222940df-b61b-46ca-97a6-3357af835e1a)
+
+
+
+#### LULC 2035 with SSP5 and RCP85
+
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/926f2426-c8d3-4068-9bab-6c9e6785de31)
+
+#### LULC 2040 with SSP5 and RCP85
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/36f0a770-7680-46b3-86a5-dbd98d9f4cec)
+
+
