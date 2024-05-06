@@ -111,8 +111,19 @@ Before using the generated LULC maps in the InVEST to compute the ecosystem serv
 
 
 
-b. Water Yield
-c. Pollination
-d. Sediment retention
-e. Nutrient retention
+#### b. Water Yield
+
+
+
+#### c. Pollination
+For Pollination, I used, global landcover_biophysical_table.csv and scenario_definations.csv which can be found under the input folder. When you run the InVEST model for a certain scenario, several results are provided as outputs like pollinator abundance of apis species in summer and spring, pollinator abundance of Bombus species for summer and spring, total_pollinator_abundance_spring, total_pollinator_abundance_summer etc. For brevity and ease on my part, I only present total_pollinator_abundance_spring files. 
+![polli_ssp1_30](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/2bcfe9d5-2efe-421c-b200-4de8a8c3a60c)
+
+
+
+
+
+#### d. Sediment retention
+
+#### e. Nutrient retention
 
