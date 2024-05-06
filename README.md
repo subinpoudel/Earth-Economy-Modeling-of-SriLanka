@@ -116,9 +116,13 @@ Before using the generated LULC maps in the InVEST to compute the ecosystem serv
 
 
 #### c. Pollination
-For Pollination, I used, global landcover_biophysical_table.csv and scenario_definations.csv which can be found under the input folder. When you run the InVEST model for a certain scenario, several results are provided as outputs like pollinator abundance of apis species in summer and spring, pollinator abundance of Bombus species for summer and spring, total_pollinator_abundance_spring, total_pollinator_abundance_summer etc. For brevity and ease on my part, I only present total_pollinator_abundance_spring files. 
-![polli_ssp1_30](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/2bcfe9d5-2efe-421c-b200-4de8a8c3a60c)
+For Pollination, I used, global landcover_biophysical_table.csv and scenario_definations.csv which can be found under the input folder. When you run the InVEST model for a certain scenario, several results are provided as outputs like pollinator abundance of apis species in summer and spring, pollinator abundance of Bombus species for summer and spring, total_pollinator_abundance_spring, total_pollinator_abundance_summer, etc. For brevity and ease on my part, I only present total_pollinator_abundance_spring files. 
 
+#### Total Pollinator Abundance in Spring under SSP1
+![polli_ssp1_30](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/2bcfe9d5-2efe-421c-b200-4de8a8c3a60c)
+![pollli_ssp1_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/61429a2e-8987-44ae-b070-2e137e06ba38)
+
+![polli_ssp1_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/a75a6564-d21b-4dda-88a5-c553a6133051)
 
 
 
