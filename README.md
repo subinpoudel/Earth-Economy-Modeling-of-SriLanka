@@ -95,6 +95,9 @@ Before using the generated LULC maps in the InVEST to compute the ecosystem serv
 #### a. Carbon Storage
 ![ssp1_2030_tc](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/05454cb2-575a-43e2-803c-ebffb4291290)
 
+![2035_ssp1](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/b05abd4e-d6a5-4bb7-9a69-b9dd9c348804)
+
+
 b. Water Yield
 c. Pollination
 d. Sediment retention
