@@ -90,9 +90,11 @@ When no restrictions were placed on land use and the economy was allowed to expa
 
 ## Component 2: 
 Using the maps generated in the first step to assess the ecosystem services for the following ecosystem services:  
-Before using the generated LULC maps in the InVEST to compute the ecosystem services, we need to make sure that, the projection systems used in the maps are confirmable. The SEAL output uses WGS 84 (EPSG: 4326) and  INVEST uses NAD83. Another commonly used and preferred projection system is Robinson projection. This change in the projection systems can be done either manually in QGIS or using the "gdal" package in python. 
+Before using the generated LULC maps in the InVEST to compute the ecosystem services, we need to make sure that the projection systems used in the maps are confirmable. The SEAL output uses WGS 84 (EPSG: 4326) and  INVEST uses EPSG:5235 (SLD99/Sri Lanka Grid 1999). Another commonly used and preferred projection system is Robinson projection. This change in the projection systems can be done either manually in QGIS or using the "gdal" package in Python. 
 
-a. Carbon Storage
+#### a. Carbon Storage
+![ssp1_2030_tc](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/05454cb2-575a-43e2-803c-ebffb4291290)
+
 b. Water Yield
 c. Pollination
 d. Sediment retention
