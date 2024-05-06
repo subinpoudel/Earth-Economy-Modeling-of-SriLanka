@@ -4,7 +4,7 @@ Country: Sri Lanka
 ## Discription
 This is the final assignment of APEC 8601- Natural Resources Course. In this project, I use tools like GTAP-InVEST earth economy modeling to estimate the economic value of various ecosystem services to the Sri Lankan economy. I will also compute the global-local estimates of the influence of ecosystem services on the computable general equilibrium.
 
-### Step 1
+## Step 1
 The first step involves creating a new copy of run_test_standard.py for Sri Lanka inside the seals folder.  This step involves changing line 24, and changing the project name to "test_lanka". The country alpha_code "Aoi code" for Sri Lanka is LKA. The scenarios under baseline are set to SSP2 under exogenous_level.  For the purpose of our analysis, I use two additional scenarios namely SSP1 and SSP5. For the years I insert 2030, 2035, and 2040 under "years" for the SSP1 and SSP5 while keeping the baseline year at 2017.
 
 The next step is to run the defined SSP scenarios. To run the new SSP scenarios, first download the correct/specific coarse_projections_input_path from Land Use Harmonization data. Save this data in the base_data under the lulh2 folder approriately or using a consistent directory structure from the baseline input data. Package "hazelbean" is used to run parallel processing. It creates separate project folders given the name given in line 24. we created a new project under the specific name "test_lanka.py" to run this. 
@@ -86,3 +86,15 @@ Making it consistent with other friends in the group, I implemented the policy t
 ## Observed Change in the Land Use
 
 When no restrictions were placed on land use and the economy was allowed to expand freely without any regulations, the amount of agricultural land expanded heavily and the natural habitat including forestland, grassland, and other natural land uses contracted. 
+
+
+## Component 2: 
+Using the maps generated in the first step to assess the ecosystem services for the following ecosystem services:  
+Before using the generated LULC maps in the InVEST to compute the ecosystem services, we need to make sure that, the projection systems used in the maps are confirmable. The SEAL output uses WGS 84 (EPSG: 4326) and  INVEST uses NAD83. Another commonly used and preferred projection system is Robinson projection. This change in the projection systems can be done either manually in QGIS or using the "gdal" package in python. 
+
+a. Carbon Storage
+b. Water Yield
+c. Pollination
+d. Sediment retention
+e. Nutrient retention
+
