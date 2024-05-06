@@ -103,8 +103,7 @@ Before using the generated LULC maps in the InVEST to compute the ecosystem serv
 
 
 ##### Under SSP5
-![ssp5_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/670c66fc-3cb4-4bdf-a6df-4c6649537532)
-
+![ssp1_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/e0e232e9-c95f-4dfb-b11a-d16c9f6b21eb)
 
 ![ssp5_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/16e38f9a-bac5-43e3-8f23-817bb19f1519)
 
