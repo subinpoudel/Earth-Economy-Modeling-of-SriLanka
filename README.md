@@ -50,4 +50,39 @@ You will want to put the scenario_definitions.csv file into a new project folder
 
 ## Adding a new "policy" layer 
 Making it consistent with other friends in the group, I implemented the policy that any protected area can be converted to any land use type. To implement this policy, I change the "strict_pa" coefficients under the default_global_coefficients.csv from 0 to 1. Then I run the code under new coefficients again. The change observed under different scenarios defined earlier under the new policy layer is shown below. 
+#### LULC 2017 with Baseline (SSP2)- Under New Policy of Free-Land-Use
 
+![lulc_esa_seals7_luh2-message_2017](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/fba406ea-7717-4c83-97ec-d756c4650efe)
+
+#### LULC 2030 with SSP1 - Under New Policy of Free-Land-Use
+
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/bd70b1a2-16e5-4d36-ad95-ad31b82fd713)
+
+
+#### LULC 2035 with SSP1- Under New Policy of Free-Land-Use
+
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/173c4043-4be8-4aef-93bd-512e943947a8)
+
+
+#### LULC 2040 with SSP1- Under New Policy of Free-Land-Use
+![lulc_esa_seals7_ssp1_rcp26_luh2-message_bau_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/59c85589-bbe6-49af-bc45-0647b7eec7f4)
+
+
+#### LULC 2030 with SSP5- Under New Policy of Free-Land-Use
+
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/87e788b6-8eac-42d1-a0d2-a1da1ad229c4)
+
+#### LULC 2035 with SSP5- Under New Policy of Free-Land-Use
+
+
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/c5fa8e43-3e66-41c5-a148-4e3700cd0292)
+
+
+#### LULC 2040 with SSP5- Under New Policy of Free-Land-Use
+
+
+![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/1df1e577-1da7-4163-b864-3cbcbca545a4)
+
+## Observed Change in the Land Use
+
+When no restrictions were placed on land use and the economy was allowed to expand freely without any regulations, the amount of agricultural land expanded heavily and the natural habitat including forestland, grassland, and other natural land uses contracted. 
