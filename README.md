@@ -49,5 +49,5 @@ You will want to put the scenario_definitions.csv file into a new project folder
 ![lulc_esa_seals7_ssp5_rcp85_luh2-message_bau_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/36f0a770-7680-46b3-86a5-dbd98d9f4cec)
 
 ## Adding a new "policy" layer 
-Making it consistent with other friends in the group, I implemented the policy that any protected area can be converted to any land use type. To implement this policy, I change the "strict_pa" coefficients under the default_global_coefficients.csv from 0 to 1. The change observed under different scenarios defined earlier under new policy layer is shown below. 
+Making it consistent with other friends in the group, I implemented the policy that any protected area can be converted to any land use type. To implement this policy, I change the "strict_pa" coefficients under the default_global_coefficients.csv from 0 to 1. Then I run the code under new coefficients again. The change observed under different scenarios defined earlier under the new policy layer is shown below. 
 
