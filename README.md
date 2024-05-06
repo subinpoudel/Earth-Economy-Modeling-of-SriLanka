@@ -93,9 +93,23 @@ Using the maps generated in the first step to assess the ecosystem services for 
 Before using the generated LULC maps in the InVEST to compute the ecosystem services, we need to make sure that the projection systems used in the maps are confirmable. The SEAL output uses WGS 84 (EPSG: 4326) and  INVEST uses EPSG:5235 (SLD99/Sri Lanka Grid 1999). Another commonly used and preferred projection system is Robinson projection. This change in the projection systems can be done either manually in QGIS or using the "gdal" package in Python. 
 
 #### a. Carbon Storage
+
+##### Under SSP1
 ![ssp1_2030_tc](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/05454cb2-575a-43e2-803c-ebffb4291290)
 
 ![2035_ssp1](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/b05abd4e-d6a5-4bb7-9a69-b9dd9c348804)
+
+![ssp1_40](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/bb59c303-622b-4688-804e-ab9d6f5f3bb3)
+
+
+##### Under SSP5
+![ssp5_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/670c66fc-3cb4-4bdf-a6df-4c6649537532)
+
+
+![ssp5_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/16e38f9a-bac5-43e3-8f23-817bb19f1519)
+
+![ssp5_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/4ffed075-b132-45bd-9994-e17de4f0d772)
+
 
 
 b. Water Yield
