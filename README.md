@@ -125,6 +125,12 @@ For Pollination, I used, global landcover_biophysical_table.csv and scenario_def
 ![polli_ssp1_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/a75a6564-d21b-4dda-88a5-c553a6133051)
 
 
+#### Total Pollinator Abundance in Spring under SSP5
+
+![polli_ssp5_2030](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/3c2de6d3-74c5-4f96-aeeb-77ad718bf0cc)
+![polli_ssp5_2035](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/63e77a1c-0342-42b3-aaa0-5803258b849e)
+
+![polli_ssp5_2040](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/assets/141669397/12fff471-e306-4a73-9b2d-5d9ca72047d8)
 
 
 #### d. Sediment retention
