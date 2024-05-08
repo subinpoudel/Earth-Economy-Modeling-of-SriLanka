@@ -120,6 +120,9 @@ Before using the generated LULC maps in the InVEST to compute the ecosystem serv
 
 
 #### b. Water Yield
+The following document houses the details about the InVEST model and Water yiled results: 
+
+This part of the projcet is still incomplete and I am still working on it. I will make sure my software runs, and will update the file here. 
 
 
 
