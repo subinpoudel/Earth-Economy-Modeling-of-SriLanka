@@ -138,15 +138,22 @@ For Pollination, I used, global landcover_biophysical_table.csv and scenario_def
 The Sediment retention document and the procedure to obtain the results can be found here: 
 [Sediment_retention.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15243059/Sediment_retention.pdf)
 
-This project uses the folowing files:
-1. Digital levation model
+This project uses the following files:
+1. Digital elevation model
 2. Erosivity raster file
 3. Soil Erodibility raster file
 4. LULC raster
 5. Biophysical file
 6. Watershed Polygons
 
-These files can be found under Sri_lanka Specific files above. 
+Some of these sample files can be files can be found under Sri_lanka Specific files above. 
 
 #### e. Nutrient retention
 
+The Nutrient retention document and the procedure to conduct the ecosystem service valuation for the Nutrient Delivery Ratio can be found here. 
+This process requires the following documents: 
+1. Digital Elevation Model of the Country/land area
+2. Land Use/ Land Cover (LULC) Map
+3. Nutrient Runoff Proxy (annual rainfall or precipitation raster )
+4. Watershed polygons
+5. Biophysical Table file (.csv)
