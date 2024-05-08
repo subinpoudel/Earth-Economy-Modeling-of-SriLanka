@@ -158,7 +158,9 @@ Some of these sample files can be files can be found under Sri_lanka Specific fi
 
 #### e. Nutrient retention
 
-The Nutrient retention document and the procedure to conduct the ecosystem service valuation for the Nutrient Delivery Ratio can be found here. 
+The Nutrient retention document and the procedure to conduct the ecosystem service valuation for the Nutrient Delivery Ratio can be found here: 
+[Nutrient Delivery Ratio.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15243924/Nutrient.Delivery.Ratio.pdf)
+
 This process requires the following documents: 
 1. Digital Elevation Model of the Country/land area
 2. Land Use/ Land Cover (LULC) Map
