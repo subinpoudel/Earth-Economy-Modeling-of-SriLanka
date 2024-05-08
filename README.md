@@ -135,5 +135,8 @@ For Pollination, I used, global landcover_biophysical_table.csv and scenario_def
 
 #### d. Sediment retention
 
+The Sediment retention document and the procedure to obtain the results can be found here: 
+[Sediment_retention.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15243059/Sediment_retention.pdf)
+
 #### e. Nutrient retention
 
