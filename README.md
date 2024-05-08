@@ -169,19 +169,19 @@ This process requires the following documents:
 5. Biophysical Table file (.csv)
 
 ### Description
-The scenarios are fairly similar in the nutrient retention model and the sediment retention model. There is a small gain in the conserved area, total pollinators and sediment retention under SSP5 in later years. I am still not confident with my maps and the results I have here in my document. I plan on working on them during this summer and updating them. 
+The scenarios are fairly similar in the nutrient retention model and the sediment retention model. There is a small gain in the conserved area, total pollinators, and sediment retention under SSP5 in later years. I am still not confident with my maps and the results I have here in my document. I plan on working on them during this summer and updating them. 
 
 
-## Executive Summary and Policy recommendation
+## Executive Summary and Policy Recommendation
 Sri Lanka has a huge upside in the conservation of natural habitat and capitalizing in the services provided by Nature. The SSP5 which is fossil fuel-led development, also has a huge upside to natural resource conservation in Sri Lanka. Policies should be made to encourage the conservation of natural habitat and stoppage of agricultural land encroachment. 
 
 ## Additional resources from APEC 8601
-[assignment 1.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244000/assignment.1.pdf)
+1. [Assignment 1.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244000/assignment.1.pdf)
 
-[Assignement 2.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244002/Assignement.2.pdf)
+2. [Assignement 2.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244002/Assignement.2.pdf)
 
-[Assignment 3.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244005/Assignment.3.pdf)
+3. [Assignment 3.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244005/Assignment.3.pdf)
 
-[assignment 4.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244006/assignment.4.pdf)
+4. [Assignment 4.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244006/assignment.4.pdf)
 
    
