@@ -187,4 +187,8 @@ Sri Lanka has a huge upside in the conservation of natural habitat and capitaliz
 
 4. [Assignment 4.pdf](https://github.com/subinpoudel/Earth-Economy-Modeling-of-SriLanka/files/15244006/assignment.4.pdf)
 
-   
+
+## Remarks
+Special thanks to Dr. Justin Johnson and Dr. Stephen Polasky for all the wisdom and compassion.
+
+For more information please contact me at: poude033@umn.edu
